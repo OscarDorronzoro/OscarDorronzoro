@@ -1,0 +1,3 @@
+- Hi, I’m @OscarDorronzoro
+- I’m interested in hacking, development
+- I’m currently learning web development with mongo, node, angular, and ethical hacking
